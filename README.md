@@ -6,7 +6,7 @@ Follow the steps in [link](https://docs.sylabs.io/guides/latest/user-guide/quick
 
 
 
-## Load datasets into A Singularity
+## Load datasets into a Singularity
 
 **Using the Directory Overlay introduced in [link](https://docs.sylabs.io/guides/latest/user-guide/persistent_overlays.html)**
 
